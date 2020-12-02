@@ -3,7 +3,17 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  url: 'http://localhost:5000/firestore-grafica-594bd/us-central1',
+  firebase: {
+    apiKey: 'AIzaSyBl-7tjLjJiOX9DQWTLn6BGqc3gaAQEsUU',
+    authDomain: 'firestore-grafica-594bd.firebaseapp.com',
+    databaseURL: 'https://firestore-grafica-594bd.firebaseio.com',
+    projectId: 'firestore-grafica-594bd',
+    storageBucket: 'firestore-grafica-594bd.appspot.com',
+    messagingSenderId: '1031334061627',
+    appId: '1:1031334061627:web:a53c327e5b3375fc241e1e'
+  }
 };
 
 /*

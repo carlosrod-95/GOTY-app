@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "firestore-grafica-594bd": {
+      "hosting": {
+        "goty": [
+          "firestore-grafica-594bd"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firestore-grafica-594bd"
+  }
+}
