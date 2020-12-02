@@ -1,6 +1,6 @@
 export const environment = {
   production: true,
-  url: 'http://us-central1-firestore-grafica-594bd.cloudfunctions.net',
+  url: 'https://us-central1-firestore-grafica-594bd.cloudfunctions.net',
   firebase: {
     apiKey: 'AIzaSyBl-7tjLjJiOX9DQWTLn6BGqc3gaAQEsUU',
     authDomain: 'firestore-grafica-594bd.firebaseapp.com',

@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  url: 'http://localhost:5000/firestore-grafica-594bd/us-central1',
+  url: 'https://localhost:5000/firestore-grafica-594bd/us-central1',
   firebase: {
     apiKey: 'AIzaSyBl-7tjLjJiOX9DQWTLn6BGqc3gaAQEsUU',
     authDomain: 'firestore-grafica-594bd.firebaseapp.com',
